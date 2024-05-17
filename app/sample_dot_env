@@ -1,0 +1,5 @@
+GREMLIN_NOSQL_URL=https://xxx.documents.azure.com:443/
+GREMLIN_NOSQL_KEY=xxx==
+GREMLIN_NOSQL_DB=dev
+GREMLIN_NOSQL_COLL=xxx
+GREMLIN_NOSQL_EXPORTS_DIR=exports
