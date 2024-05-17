@@ -1,3 +1,32 @@
+## cj
+
+**/gradle/
+**/gradlew
+**/gradlew.bat
+
+**/*.class
+**/*.gz
+**/*.iml
+**/*.swp
+
+**/.DS_Store
+**/.classpath
+**/.factorypath
+**/.gradle/
+**/.idea/
+**/.vs/
+**/.vscode
+**/bin/
+**/build/
+**/exports/
+**/raw/
+**/target/
+**/tmp/
+
+**/app/.env
+
+## Maven project settings from GitHub, below:
+
 target/
 pom.xml.tag
 pom.xml.releaseBackup
