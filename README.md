@@ -34,6 +34,16 @@ This file is Git-Ignored in this repo.  See file app/sample_dot_env.
 
 ## Executing the Export Process
 
+### Clone the GitHub Repository
+
+```
+> cd ... some directory on your system ...
+
+> git clone https://github.com/cjoakim/azure-cosmos-db-gremlinx.git
+
+> cd azure-cosmos-db-gremlinx
+```
+
 ### Compile the Java code
 
 ```
