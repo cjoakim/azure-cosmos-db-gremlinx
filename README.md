@@ -57,11 +57,17 @@ BUILD SUCCESSFUL in 3s
 
 ### Verify your Environment Variables
 
+This reads and displays the environment variables shown above.
+
+
 ```
 > gradle checkEnv
 
 ... output omitted ...
 ```
+
+If the displayed environment variable values are incorrect, then please
+set these environment variables as shown above.
 
 ### Execute the Export
 
